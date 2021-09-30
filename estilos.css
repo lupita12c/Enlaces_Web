@@ -1,3 +1,7 @@
-html {
-    background: lightblue url("tulipan.jpg") left top / 100px;
- }
+body {
+    background:url("22.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    color: #fff;
+
+}

@@ -1,0 +1,6 @@
+body {
+    background:url("tulipan.jpg") left top repeat-y,
+    hsl(105, 80%, 85%) url("tulipan-1f337.svg") right top repeat-y;
+  padding: 0 70px;
+
+}
